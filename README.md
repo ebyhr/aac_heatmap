@@ -1,4 +1,4 @@
-heatmap is custom visualization for Aster AppCenter, is faster than original table view.  
+Custom visualization for Aster AppCenter.  
 
 Sample Query
 ```sql
@@ -25,3 +25,4 @@ insert into app_center_visualizations (json) values (
 }')
 ;
 ```
+![result.png](result.png)
